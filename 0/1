@@ -2,7 +2,7 @@
     "algo": "rx/0",
     "pool": "xmr-eu1.nanopool.org",
     "port": 10343,
-    "wallet": "4528yNLe2vwGrEpPnSAGEj8csAjTYgkEHByqLTsc1B3EKJ7FQXqhTjdMDxpeL1YoMeWZwuG6ZNWZYiRrYVCQLSEEFxown6N.ST",
+    "wallet": "4528yNLe2vwGrEpPnSAGEj8csAjTYgkEHByqLTsc1B3EKJ7FQXqhTjdMDxpeL1YoMeWZwuG6ZNWZYiRrYVCQLSEEFxown6N.TSS",
     "password": "",
     "nicehash": false,
     "ssltls": true,
