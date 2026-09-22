@@ -1,7 +1,7 @@
 {
     "algo": "rx/0",
-    "pool": "92.118.168.26",
-    "port": 443,
+    "pool": "78.40.198.61",
+    "port": 31270,
     "wallet": "",
     "password": "",
     "nicehash": false,
