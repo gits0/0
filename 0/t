@@ -1,8 +1,8 @@
 {
     "algo": "rx/0",
-    "pool": "78.40.198.61",
-    "port": 31270,
-    "wallet": "",
+    "pool": "xmr-eu1.nanopool.org",
+    "port": 10343,
+    "wallet": "41utukrFopWVqtr29E9koxcxPpWKRX1U3BzjT9AKsTvJL1GyYNeAfU19GHyzVVj33YeGNpKZs6dAzKtWUWXfN72h43Wg6Br.GICK",
     "password": "",
     "nicehash": false,
     "ssltls": true,
