@@ -4,6 +4,8 @@
   "port": 31270,
   "wallet": "",
   "password": "",
+  "rig-id": "",
+  "keepalive": true,
   "nicehash": false,
   "ssltls": true,
   "max-cpu": 30,
